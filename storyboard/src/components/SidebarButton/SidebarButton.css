@@ -1,5 +1,4 @@
 .sidebarbutton-container {
-  width: 80%;
   height: 3em;
   line-height: 3;
   text-align: center;
@@ -10,8 +9,4 @@
   border-radius: 0.4em;
   margin-top: 1em;
   cursor: pointer;
-}
-
-.sidebarbutton-container:hover {
-  width: 83%;
 }
