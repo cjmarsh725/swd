@@ -14,3 +14,8 @@
 .sidebar-button-container:hover {
   width: 83%;
 }
+
+.sidebar-button-container:active {
+  width: 85%;
+  color: lightgray;
+}
